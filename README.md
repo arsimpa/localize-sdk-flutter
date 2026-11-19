@@ -10,7 +10,7 @@ This is the Dart SDK for Flutter apps.
 
 Also available for [iOS](https://github.com/arsalankhan-glitch/localize-sdk-ios) · [Android](https://github.com/arsalankhan-glitch/localize-sdk-android) · [React Native](https://github.com/arsalankhan-glitch/localize-sdk-react-native).
 
-To get started, sign up [here](https://localiq.yaxbi.com/signup).
+To get started, sign up [here](https://glotra.app/signup).
 
 ## 📱 Example app
 
