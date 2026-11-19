@@ -1,14 +1,14 @@
-# Localiq Flutter SDK
+# Glotra Flutter SDK
 
-[![Version](https://img.shields.io/github/v/tag/arsalankhan-glitch/localize-sdk-flutter?sort=semver&label=version)](https://github.com/arsalankhan-glitch/localize-sdk-flutter/tags) [![License](https://img.shields.io/github/license/arsalankhan-glitch/localize-sdk-flutter)](LICENSE) [![Flutter](https://img.shields.io/badge/Flutter-compatible-02569B.svg)](https://flutter.dev) ![Dart 3.0+](https://img.shields.io/badge/Dart-3.0%2B-0175C2.svg)
+[![Version](https://img.shields.io/github/v/tag/arsimpa/localize-sdk-flutter?sort=semver&label=version)](https://github.com/arsimpa/localize-sdk-flutter/tags) [![License](https://img.shields.io/github/license/arsimpa/localize-sdk-flutter)](LICENSE) [![Flutter](https://img.shields.io/badge/Flutter-compatible-02569B.svg)](https://flutter.dev) ![Dart 3.0+](https://img.shields.io/badge/Dart-3.0%2B-0175C2.svg)
 
 ## 👋 Introduction
 
-Localiq lets your team manage your app's text and translations in one place and update them without shipping a new release. The SDK downloads the latest translations at runtime, caches them on the device, and falls back to the strings bundled in your app when it's offline.
+Glotra lets your team manage your app's text and translations in one place and update them without shipping a new release. The SDK downloads the latest translations at runtime, caches them on the device, and falls back to the strings bundled in your app when it's offline.
 
 This is the Dart SDK for Flutter apps.
 
-Also available for [iOS](https://github.com/arsalankhan-glitch/localize-sdk-ios) · [Android](https://github.com/arsalankhan-glitch/localize-sdk-android) · [React Native](https://github.com/arsalankhan-glitch/localize-sdk-react-native).
+Also available for [iOS](https://github.com/arsimpa/localize-sdk-ios) · [Android](https://github.com/arsimpa/localize-sdk-android) · [React Native](https://github.com/arsimpa/localize-sdk-react-native).
 
 To get started, sign up [here](https://glotra.app/signup).
 
@@ -29,8 +29,8 @@ Add to `pubspec.yaml`:
 dependencies:
   flutter_localize_sdk:
     git:
-      url: https://github.com/arsalankhan-glitch/localize-sdk-flutter
-      ref: 0.1.0
+      url: https://github.com/arsimpa/localize-sdk-flutter
+      ref: 0.1.1
 ```
 
 Then run:
